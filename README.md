@@ -19,7 +19,9 @@ I'm currently learning React and modern web development.
 
 ## 💻 Tech Stack
 
-HTML • CSS • JavaScript • React
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
 
 ## 📚 About Me
 
