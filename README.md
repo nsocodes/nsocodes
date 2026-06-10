@@ -1,48 +1,5 @@
-<!DOCTYPE html>
-<html>
+![Banner](./banner.png)
 
-<head>
-	<style>
-		body {
-			margin: 0;
-			background: #0D1117;
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			height: 320px;
-			width: 1280px;
-			font-family: 'Segoe UI', sans-serif;
-			border-bottom: 4px solid #58A6FF;
-		}
-
-		.banner {
-			text-align: center;
-			color: white;
-		}
-
-		h1 {
-			font-size: 48px;
-			margin: 0;
-			background: linear-gradient(90deg, #fff, #58A6FF);
-			-webkit-background-clip: text;
-			-webkit-text-fill-color: transparent;
-		}
-
-		p {
-			font-size: 24px;
-			color: #8B949E;
-		}
-	</style>
-</head>
-
-<body>
-	<div class="banner">
-		<h1>Hi 👋 I'm Zebiniso Erkinova</h1>
-		<p>Aspiring Full-Stack Developer | React Learner | Uzbekistan</p>
-	</div>
-</body>
-
-</html>
 
 
 ## 🌱 Currently Learning
