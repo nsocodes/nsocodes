@@ -1,14 +1,48 @@
-<p align="center">
-  <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="150" fill="#0D1117"/>
-    <text x="50%" y="50%" font-size="28" fill="#58A6FF" text-anchor="middle" dominant-baseline="middle" font-family="Arial">
-      Hi 👋 I'm Zebiniso Erkinova
-    </text>
-    <text x="50%" y="70%" font-size="18" fill="#8B949E" text-anchor="middle" dominant-baseline="middle">
-      Aspiring Full-Stack Developer | React | Uzbekistan
-    </text>
-  </svg>
-</p>
+<!DOCTYPE html>
+<html>
+
+<head>
+	<style>
+		body {
+			margin: 0;
+			background: #0D1117;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 320px;
+			width: 1280px;
+			font-family: 'Segoe UI', sans-serif;
+			border-bottom: 4px solid #58A6FF;
+		}
+
+		.banner {
+			text-align: center;
+			color: white;
+		}
+
+		h1 {
+			font-size: 48px;
+			margin: 0;
+			background: linear-gradient(90deg, #fff, #58A6FF);
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+		}
+
+		p {
+			font-size: 24px;
+			color: #8B949E;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="banner">
+		<h1>Hi 👋 I'm Zebiniso Erkinova</h1>
+		<p>Aspiring Full-Stack Developer | React Learner | Uzbekistan</p>
+	</div>
+</body>
+
+</html>
 
 
 ## 🌱 Currently Learning
