@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Zebiniso Erkinova
 
-<!--
-**nsocodes/nsocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm currently learning React and modern web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+* JavaScript
+* React
+* Git & GitHub
+
+## 🎯 Goals
+
+* Learn Backend Development
+* Build Real Projects
+* Create a Professional Portfolio
+* Become a Full-Stack Developer
+
+## 💻 Tech Stack
+
+HTML • CSS • JavaScript • React
+
+## 📚 About Me
+
+* Student from Uzbekistan 🇺🇿
+* Interested in Software Engineering
+* Learning and improving every day
+
+## 📫 Connect With Me
+
+Telegram: @nsocodes
+
+⭐ Thanks for visiting my profile!
